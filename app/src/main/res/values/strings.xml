@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dam Cinema</string>
+    <string name="gambito">Gámbito de Dama</string>
+    <string name="director">Director</string>
+    <string name="pais">País</string>
+    <string name="reparto">Reparto</string>
+    <string name="subtitulo">Basada en la novela de Walter Tevis, 1983</string>
+    <string name="sinopsis">Gambito de dama es una historia ficticia que sigue la
+        vida de una huérfana prodigio del ajedrez, Beth Harmon (Anya Taylor-Joy),
+        durante su búsqueda para convertirse en la mejor jugadora de ajedrez del mundo
+        mientras lucha con problemas emocionales y dependencia de las drogas y el alcohol.
+        La historia comienza a mediados de la década de 1950 y continúa hasta la de 1960.</string>
+    <string name="info">Info</string>
+</resources>
